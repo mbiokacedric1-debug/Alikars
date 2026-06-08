@@ -1,0 +1,6 @@
+{
+  "name": "Catalogue Automobile",
+  "description": "Un catalogue interactif et moderne de véhicules avec filtres avancés, fiches détaillées et un module de comparaison, arborant une esthétique noire, blanche et rouge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
